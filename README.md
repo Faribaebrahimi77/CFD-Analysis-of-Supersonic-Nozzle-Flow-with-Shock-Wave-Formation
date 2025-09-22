@@ -1,7 +1,7 @@
 # CFD-Analysis-of-Supersonic-Nozzle-Flow-with-Shock-Wave-Formation
 Comprehensive CFD analysis of supersonic flow in a convergent-divergent nozzle investigating shock wave formation, flow separation, and the effects of varying back pressure conditions on nozzle performance.
 <img width="499" height="314" alt="image" src="https://github.com/user-attachments/assets/c2c5bdb0-aa70-469c-a8a2-3a9bdca876d1" />
-🏗️ Nozzle Configuration
+# Nozzle Configuration
 
 Geometry Type: Convergent-Divergent (C-D) Nozzle
 Flow Regime: Compressible, supersonic flow
@@ -39,38 +39,38 @@ Mach Number Distribution: Supersonic acceleration and deceleration
 Shock Wave Characterization: Normal shock strength and location
 Flow Separation Criteria: Adverse pressure gradient limits
 
-📊 Key Analysis Objectives
+# Key Analysis Objectives
 Shock Wave Analysis
 
-✅ Shock Location Prediction: Position vs. back pressure relationship
+Shock Location Prediction: Position vs. back pressure relationship
 
-✅ Shock Strength: Pressure jump and Mach number change
+Shock Strength: Pressure jump and Mach number change
 
-✅ Flow Recovery: Downstream pressure and velocity profiles
+Flow Recovery: Downstream pressure and velocity profiles
 
-✅ Shock Stability: Steady vs. unsteady shock behavior
+ Shock Stability: Steady vs. unsteady shock behavior
 
-Flow Separation Investigation
+# Flow Separation Investigation
 
-✅ Separation Onset: Critical back pressure determination
+Separation Onset: Critical back pressure determination
 
-✅ Separation Zone Characteristics: Recirculation pattern analysis
+Separation Zone Characteristics: Recirculation pattern analysis
 
-✅ Wall Pressure Distribution: Separated flow pressure signatures
+Wall Pressure Distribution: Separated flow pressure signatures
 
-✅ Reattachment Analysis: Flow recovery downstream
+Reattachment Analysis: Flow recovery downstream
 
-Performance Metrics
+# Performance Metrics
 
-✅ Thrust Coefficient: Nozzle propulsive performance
+ Thrust Coefficient: Nozzle propulsive performance
 
-✅ Discharge Coefficient: Mass flow efficiency
+ Discharge Coefficient: Mass flow efficiency
 
-✅ Pressure Recovery: Total pressure losses
+ Pressure Recovery: Total pressure losses
 
-✅ Flow Uniformity: Exit flow quality assessment
+ Flow Uniformity: Exit flow quality assessment
 
-🛠️ CFD Methodology
+#  CFD Methodology
 Numerical Approach
 
 Solver Type: Density-based compressible flow solver
@@ -92,15 +92,15 @@ Shock Resolution: Fine mesh near expected shock locations
 Boundary Layer: Near-wall clustering for viscous effects
 Adaptive Refinement: Dynamic grid adaptation for shock tracking
 
-📊 Key Analysis Parameters
+# Key Analysis Parameters
 Flow Properties
 
-✅ Mach Number Distribution: Subsonic to supersonic transition
+ Mach Number Distribution: Subsonic to supersonic transition
 
-✅ Pressure Ratio: Total to static pressure variations
+ Pressure Ratio: Total to static pressure variations
 
-✅ Temperature Distribution: Compressibility effects
+ Temperature Distribution: Compressibility effects
 
-✅ Density Changes: Compressible flow characteristics
+ Density Changes: Compressible flow characteristics
 
-✅ Velocity Profiles: Flow acceleration through nozzle
+ Velocity Profiles: Flow acceleration through nozzle
